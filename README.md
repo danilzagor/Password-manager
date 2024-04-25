@@ -1,1 +1,2 @@
 # Password-manager
+The C++ Password Manager is a text-based tool designed to facilitate the generation and organization of robust passwords. This application encrypts passwords for enhanced security and offers various functionalities such as saving passwords to a specified text file, searching for existing passwords, generating random passwords, deleting, sorting, and editing passwords, as well as managing categories. With its features, the C++ Password Manager provides a practical means to efficiently manage and safeguard your sensitive credentials
